@@ -1,0 +1,10 @@
+/Users/anna/Documents/Visual Studio 2015/Projects/Hello_CodeFirst/Hello_CodeFirst/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Users/anna/Documents/Visual Studio 2015/Projects/Hello_CodeFirst/Hello_CodeFirst/bin/Debug/Hello_CodeFirst.exe.config
+/Users/anna/Documents/Visual Studio 2015/Projects/Hello_CodeFirst/Hello_CodeFirst/bin/Debug/Hello_CodeFirst.exe.mdb
+/Users/anna/Documents/Visual Studio 2015/Projects/Hello_CodeFirst/Hello_CodeFirst/bin/Debug/Hello_CodeFirst.pdb
+/Users/anna/Documents/Visual Studio 2015/Projects/Hello_CodeFirst/Hello_CodeFirst/bin/Debug/Hello_CodeFirst.exe
+/Users/anna/Documents/Visual Studio 2015/Projects/Hello_CodeFirst/Hello_CodeFirst/obj/Debug/Hello_CodeFirst.exe
+/Users/anna/Documents/Visual Studio 2015/Projects/Hello_CodeFirst/Hello_CodeFirst/obj/Debug/Hello_CodeFirst.exe.mdb
+/Users/anna/Documents/Visual Studio 2015/Projects/Hello_CodeFirst/Hello_CodeFirst/obj/Debug/Hello_CodeFirst.pdb
+/Users/anna/Documents/Visual Studio 2015/Projects/Hello_CodeFirst/Hello_CodeFirst/bin/Debug/EntityFramework.dll
+/Users/anna/Documents/Visual Studio 2015/Projects/Hello_CodeFirst/Hello_CodeFirst/bin/Debug/EntityFramework.SqlServer.dll

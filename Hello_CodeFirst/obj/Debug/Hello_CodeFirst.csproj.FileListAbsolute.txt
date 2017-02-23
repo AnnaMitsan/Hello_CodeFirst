@@ -1,0 +1,13 @@
+Z:\Documents\Visual Studio 2015\Projects\Hello_CodeFirst\Hello_CodeFirst\bin\Debug\Hello_CodeFirst.exe.config
+Z:\Documents\Visual Studio 2015\Projects\Hello_CodeFirst\Hello_CodeFirst\obj\Debug\Hello_CodeFirst.exe
+Z:\Documents\Visual Studio 2015\Projects\Hello_CodeFirst\Hello_CodeFirst\obj\Debug\Hello_CodeFirst.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\Hello_CodeFirst\Hello_CodeFirst\bin\Debug\Hello_CodeFirst.exe.config
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\Hello_CodeFirst\Hello_CodeFirst\bin\Debug\Hello_CodeFirst.exe
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\Hello_CodeFirst\Hello_CodeFirst\bin\Debug\Hello_CodeFirst.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\Hello_CodeFirst\Hello_CodeFirst\bin\Debug\EntityFramework.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\Hello_CodeFirst\Hello_CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\Hello_CodeFirst\Hello_CodeFirst\bin\Debug\EntityFramework.xml
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\Hello_CodeFirst\Hello_CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\Hello_CodeFirst\Hello_CodeFirst\obj\Debug\Hello_CodeFirst.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\Hello_CodeFirst\Hello_CodeFirst\obj\Debug\Hello_CodeFirst.exe
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\Hello_CodeFirst\Hello_CodeFirst\obj\Debug\Hello_CodeFirst.pdb
